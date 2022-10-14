@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
 body{
     background-color: white;
     margin: 0;
     padding: 0;
+    font-family: 'Poppins', sans-serif;
 }
 header{
     width:100%;
@@ -30,7 +32,9 @@ header{
 
 }
 .nav-bar{
+    list-style: none;
     display:flex;
+    font-weight: lighter;
     gap: 1.5rem;
 }
 
