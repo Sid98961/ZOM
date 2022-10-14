@@ -19,7 +19,7 @@ header{
     
 }
 .header-image img{
-    /* width: 100%; */
+     width: 100%; 
 }
 .nav{
     display: flex;
@@ -63,8 +63,8 @@ margin-top:7vh;
     margin-left: 10px;
 } 
 .search .search-item p{
-    color: white;
-    border-right: 3px solid white;
+    color: grey;
+    border-right: 3px solid grey;
     font-size: 15px;
     margin-right: 10px;
     margin: 10px;
